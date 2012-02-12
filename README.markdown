@@ -1,0 +1,3 @@
+# Due to integration errors somehwere in chapter 8
+# I am starting all over again with a fresh build
+# copying exactly what Micheal Hartl is typing...
